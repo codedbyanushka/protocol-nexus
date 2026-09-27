@@ -1,0 +1,6 @@
+{
+  "name": "PROTOCOL NEXUS | Marvel × GFG Bennett",
+  "description": "The flagship Marvel-themed national hackathon organized by GeeksForGeeks Student Chapter, Bennett University. Assemble your squad to solve Earth-616 algorithmic challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
